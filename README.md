@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shanker  
-- 👀 I’m interested in learning ansible and terraform
-- 🌱 I’m currently learning ansible
+- 👋 Hi,  
+- 👀 I’m interested in learning 
+- 🌱 
 - 💞️ I’m looking to collaborate on ansible and terraform..
 - 📫 How to reach me sbblissfull@gmail.com
 
